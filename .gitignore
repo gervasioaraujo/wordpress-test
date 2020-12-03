@@ -24,3 +24,4 @@ node_modules/
 
 # GERVÁSIO - ignore
 wp-config.php
+!database/*
